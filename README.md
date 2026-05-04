@@ -1,46 +1,46 @@
-# 👋 Olá, eu sou JhonnyJohnJones
+# 👋 Hi, I'm JhonnyJohnJones
 
-💻 Software Engineer focado em backend, arquitetura de sistemas e aplicações escaláveis.
+💻 Software Engineer focused on backend development, system architecture, and scalable applications.
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 About me
 
-Desenvolvedor com foco em construção de APIs robustas, sistemas distribuídos e arquiteturas orientadas a eventos.  
-Busco sempre código limpo, soluções simples e sistemas fáceis de evoluir.
+Developer focused on building robust APIs, distributed systems, and event-driven architectures.  
+I value clean code, simple solutions, and systems that are easy to evolve.
 
 ---
 
 ## 🧠 Stack
 
 - **Backend:** NestJS, Node.js  
-- **Banco de Dados:** PostgreSQL, MySQL  
+- **Databases:** PostgreSQL, MySQL  
 - **ORMs:** Prisma, TypeORM  
-- **Arquitetura:** Microservices, Event-driven  
-- **Mensageria:** RabbitMQ, Redis  
-- **Segurança:** JWT, OAuth2  
-- **Testes:** Jest  
-- **Ferramentas:** Docker, Swagger  
+- **Architecture:** Microservices, Event-driven  
+- **Messaging:** RabbitMQ, Redis  
+- **Security:** JWT, OAuth2  
+- **Testing:** Jest  
+- **Tools:** Docker, Swagger  
 
 ---
 
-## 💼 Experiência
+## 💼 Experience
 
 **Software Engineer — TalkerFlow**  
-- Desenvolvimento de sistemas de comunicação escaláveis  
-- Implementação de arquitetura orientada a eventos  
-- Criação e manutenção de microsserviços de alta performance  
+- Building scalable communication systems  
+- Implementing event-driven architecture  
+- Developing and maintaining high-performance microservices  
 
 ---
 
-## 📌 Projetos
+## 📌 Projects
 
-Projetos focados em backend, arquitetura e sistemas escaláveis.  
-Confira os repositórios para ver exemplos práticos.
+Projects focused on backend, architecture, and scalable systems.  
+Check the repositories for practical examples.
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
-- GitHub: *(seu link)*  
-- LinkedIn: *(seu link)*  
+- GitHub: *(your link)*  
+- LinkedIn: *(your link)*  
