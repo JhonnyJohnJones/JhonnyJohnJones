@@ -11,7 +11,7 @@ I value clean code, simple solutions, and systems that are easy to evolve.
 
 ---
 
-## 🧠 Stack
+## 🧠 Main Stacks
 
 - **Backend:** NestJS, Node.js  
 - **Databases:** PostgreSQL, MySQL  
